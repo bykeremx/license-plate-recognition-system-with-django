@@ -27,8 +27,10 @@
 **TR:** Projeyi çalıştırmak için aşağıdaki adımları takip edin.
 
 **EN:** Follow these steps to run the project.
+--- 
 
 ```bash
+
 # 1. Depoyu klonlayın | Clone the repository
 git clone https://github.com/bykeremx/license-plate-recognition-system-with-django.git
 cd plate-recognition
