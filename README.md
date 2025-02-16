@@ -19,7 +19,6 @@
 2️⃣ **Plaka Tespit Edilir**  
 3️⃣ **Sonuç Görüntülenir**
 
-
 ---
 
 ## 🚀 Kurulum | Installation
@@ -27,10 +26,10 @@
 **TR:** Projeyi çalıştırmak için aşağıdaki adımları takip edin.
 
 **EN:** Follow these steps to run the project.
---- 
+
+---
 
 ```bash
-
 # 1. Depoyu klonlayın | Clone the repository
 git clone https://github.com/bykeremx/license-plate-recognition-system-with-django.git
 cd plate-recognition
@@ -42,8 +41,9 @@ venv\Scripts\activate    # Windows
 
 # 3. Bağımlılıkları yükleyin | Install dependencies
 pip install -r requirements.txt
+```
 
-
+---
 
 ## 📦 Kullanılan Teknolojiler | Technologies Used
 
@@ -72,5 +72,6 @@ pip install -r requirements.txt
 
 ## 📧 İletişim | Contact
 
-- **GitHub:** [yourusername](https://github.com/bykeremx)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/keremutlu)
+- **GitHub:** [bykeremx](https://github.com/bykeremx)
+- **LinkedIn:** [Kerem Utlu](https://www.linkedin.com/in/keremutlu)
+
